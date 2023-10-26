@@ -1,0 +1,17 @@
+{
+  "name": "tpburgertic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "menu.js",
+  "scripts": {
+    "start": "node menu.js",
+    "dev": "nodemon menu.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^3.6.2",
+    "nodemon": "^2.0.7"
+  }
+}
